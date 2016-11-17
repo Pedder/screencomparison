@@ -3,7 +3,7 @@
 
 Easy way to compare two versions of the same pages in different screen sizes.  
 
-## Instalation
+## Installation / setup
 ```
 brew install imagemagick
 npm install phantomjs
