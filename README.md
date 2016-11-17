@@ -11,7 +11,7 @@ brew install imagemagick
 npm install phantomjs
 npm install colors
 
-Probabbly
+Probably
 npm install -g gm
 
 ## 1. Create the screenshot
